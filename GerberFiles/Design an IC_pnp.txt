@@ -1,0 +1,33 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Design an IC
+*Date=14:02:33
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;30.5996;-8.62924;0;Bottom;Via1
+2;220;THT;58.5396;-28.9492;0;Bottom;R1
+3;220;THT;61.0796;-11.1692;0;Bottom;R3
+4;;5 mm [THT];43.2996;-19.4803;0;Bottom;LED1
+5;91k;THT;28.0596;-44.1892;-90;Bottom;R6
+6;;5 mm [THT];43.2997;-4.24026;0;Bottom;LED3
+7;;5 mm [THT];43.2995;-11.8603;0;Bottom;LED2
+8;0.1mF;100 mil [THT, electrolytic];6.4696;-26.4092;0;Bottom;C1
+9;;DIP8 [THT];11.5496;-12.4392;0;Bottom;555 Timer
+10;;[THT];69.4097;-52.0991;180;Bottom;S1
+11;220;THT;58.5396;-16.2492;0;Bottom;R4
+12;;;35.6796;-36.5692;0;Bottom;Via2
+13;;5 mm [THT];43.2995;-29.6403;0;Bottom;LED4
+14;220;THT;66.1596;-3.54924;0;Bottom;R2
+15;9V;;5.1996;-47.9992;0;Bottom;VCC1
+16;;dil14;71.2396;-37.8392;0;Bottom;U1
+17;91k;THT;12.8196;-41.6492;90;Bottom;R5
+18;10nF;100 mil [THT, multilayer];43.2996;-45.4592;90;Bottom;C2
